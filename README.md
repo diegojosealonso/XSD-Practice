@@ -1,4 +1,4 @@
-Prácticas de XML Schema (XSD)
+# Prácticas de XML Schema (XSD)
 Este repositorio contiene una serie de ejercicios prácticos diseñados para aprender a definir y validar la estructura de documentos XML mediante el uso de esquemas XSD, asegurando la integridad y el formato correcto de los datos.
 
 Ejercicio 1
@@ -36,3 +36,4 @@ XML
 <tipo_matricula>Matrícula Ordinaria</tipo_matricula>
 </pago>
 </matricula>
+
